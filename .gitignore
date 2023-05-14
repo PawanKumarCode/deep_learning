@@ -1,0 +1,21 @@
+# .gitignore
+
+# Ignore compiled Python files
+*.pyc
+
+# Ignore all files in the __pycache__ directory
+__pycache__/
+
+# Ignore local configuration files
+*.cfg
+
+# Ignore log files
+*.log
+
+# Ignore the virtual environment directory
+venv/
+
+# Ignore any .env files
+.env
+
+
